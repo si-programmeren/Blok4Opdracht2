@@ -26,4 +26,3 @@
 
 
 // Schrijf hieronder je code vanaf stap 6
-//
